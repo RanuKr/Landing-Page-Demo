@@ -20,6 +20,8 @@ const Body = () => {
       <div className='flex gap-2'>
         <img src="./assets/Checkmark.svg" alt="lg" />
         <p className='font-lato text-gray-400'>No spam ,ever . Unsubscribe anytime</p>
+        <p>This is change</p>
+        <p>this is change by mohit lara</p>
       </div>
     </div>
     </div>
